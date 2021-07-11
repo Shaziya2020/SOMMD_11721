@@ -10,7 +10,7 @@ Authors@R: c(
     person(given = "Shaziya",
            family = "Mulla",
            role = c("aut"),
-           email = "Shaziyaismail.m@gmail.com",
+           email = "shaziyaismail.m@gmail.com",
            comment = c(ORCID = "https://orcid.org/0000-0002-7642-3136")),
     person(given = "Hamid",
            family = "Davoudkhani",
@@ -34,3 +34,5 @@ Imports:
 Suggests: 
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
+URL: https://github.com/Shaziya2020/SOMMD
+BugReports: https://github.com/Shaziya2020/SOMMD/issues
